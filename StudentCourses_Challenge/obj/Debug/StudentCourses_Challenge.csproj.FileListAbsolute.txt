@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\StudentCourses_Challenge\StudentCourses_Challenge\bin\Debug\StudentCourses_Challenge.exe.config
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\StudentCourses_Challenge\StudentCourses_Challenge\obj\Debug\StudentCourses_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\StudentCourses_Challenge\StudentCourses_Challenge\obj\Debug\StudentCourses_Challenge.Default.resources
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\StudentCourses_Challenge\StudentCourses_Challenge\obj\Debug\StudentCourses_Challenge.Properties.Resources.resources
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\StudentCourses_Challenge\StudentCourses_Challenge\obj\Debug\StudentCourses_Challenge.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\StudentCourses_Challenge\StudentCourses_Challenge\bin\Debug\StudentCourses_Challenge.exe
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\StudentCourses_Challenge\StudentCourses_Challenge\bin\Debug\StudentCourses_Challenge.pdb
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\StudentCourses_Challenge\StudentCourses_Challenge\obj\Debug\StudentCourses_Challenge.exe
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\StudentCourses_Challenge\StudentCourses_Challenge\obj\Debug\StudentCourses_Challenge.pdb
